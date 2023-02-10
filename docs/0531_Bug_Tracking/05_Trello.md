@@ -5,7 +5,7 @@
 
   ![Menu](/img/bug-tracking/jira-cloud-1.png)
 
-2. Click on "Integhrations" and scrolle down to choose "Trello", and press the `Add Integrations` button.
+2. Click on "Integrations" and scroll down to choose "Trello", and press the `Add Integrations` button.
 
 
   ![JIRA-setup](/img/bug-tracking/trello1.png)
